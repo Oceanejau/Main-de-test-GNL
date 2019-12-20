@@ -1,0 +1,10 @@
+
+
+
+qwerty
+012345678910
+vide
+.
+
+RETURN ========== 1: ||
+fin = 10 lignes (tester avec un Buffer de 10, verifier si entre le 'y' de qwerty et le '0' il n'y a pas de char en moins ou en trop)

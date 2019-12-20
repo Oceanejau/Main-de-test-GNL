@@ -1,0 +1,14 @@
+pour compiler: (je teste en size 1)
+gcc -Wall -Wextra -Werror -D BUFFER_SIZE=1 get_next_line.h get_next_line.c get_next_line_utiles.c main.c
+
+
+
+tester avec les 2 mains
+
+
+
+
+
+txt 1 et txt2 font 5 lignes
+tot 
+./a.out txt1 txt2 tot kot le_rouge_et_le_noir
